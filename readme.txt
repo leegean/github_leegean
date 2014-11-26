@@ -5,3 +5,4 @@ Git tracks changes of files.
 1 my add.
 2 my success.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
