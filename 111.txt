@@ -6,6 +6,7 @@ add 55
 add 999
 add 300
 
-add 400
+add 50
 
 add 500
+add 60
