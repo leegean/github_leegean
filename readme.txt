@@ -7,4 +7,8 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 3 my job.
+
 =====
+=======
+%%%%%%%%%%
+>>>>>>> branch 'master' of https://github.com/leegean/github_leegean.git
